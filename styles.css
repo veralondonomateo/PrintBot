@@ -87,7 +87,7 @@ body {
 
 
 .login-side {
-    padding: 100px 10px 10px 10px;
+    padding: 140px 15px 15px 15px;
     display: flex;
     justify-content: center;
     align-items: start;
@@ -95,7 +95,7 @@ body {
 
 .info-side {
     height: 100vh;
-    margin: 10px 10px 10px 10px;
+    margin: 15px 15px 15px 15px;
     background-image: url("https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/62dc1d85956631.6065d58050383.gif");
     color: #401B3D;    
     border-radius: 40px;}
@@ -158,7 +158,7 @@ body {
 
 .logo {
     position:absolute;
-    height: 140Px;
+    height: 170Px;
     top: 7px;
     left: 0px;
     right: 4px;
